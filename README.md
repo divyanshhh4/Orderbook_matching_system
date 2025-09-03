@@ -108,4 +108,4 @@ The simulation is driven by text files with simple commands.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.txt](https://www.google.com/search?q=LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the LICENSE.txt file for details.
